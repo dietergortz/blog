@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2019-12-27T18:35:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/excel/</loc>
+    <loc>http://localhost:1313/blog/tags/excel/</loc>
     <lastmod>2019-12-27T18:35:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/games/</loc>
+    <loc>http://localhost:1313/blog/tags/games/</loc>
     <lastmod>2019-12-27T18:35:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/blog/posts/</loc>
     <lastmod>2019-12-27T18:35:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/slake/</loc>
+    <loc>http://localhost:1313/blog/posts/slake/</loc>
     <lastmod>2019-12-27T18:35:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/blog/tags/</loc>
     <lastmod>2019-12-27T18:35:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vba/</loc>
+    <loc>http://localhost:1313/blog/tags/vba/</loc>
     <lastmod>2019-12-27T18:35:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/celltris/</loc>
+    <loc>http://localhost:1313/blog/posts/celltris/</loc>
     <lastmod>2018-12-31T16:51:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tetris/</loc>
+    <loc>http://localhost:1313/blog/tags/tetris/</loc>
     <lastmod>2018-12-31T16:51:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/blog/about/</loc>
     <lastmod>2018-12-31T13:39:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2018_may_01/</loc>
+    <loc>http://localhost:1313/blog/posts/2018_may_01/</loc>
     <lastmod>2018-05-01T22:57:33+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/blog/categories/</loc>
   </url>
 </urlset>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vba on Dieter Görtz</title>
-    <link>http://localhost:1313/tags/vba/</link>
+    <link>http://localhost:1313/blog/tags/vba/</link>
     <description>Recent content in Vba on Dieter Görtz</description>
     <image>
       <title>Dieter Görtz</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 27 Dec 2019 18:35:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/vba/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/vba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slake - Creating snake in Excel</title>
-      <link>http://localhost:1313/posts/slake/</link>
+      <link>http://localhost:1313/blog/posts/slake/</link>
       <pubDate>Fri, 27 Dec 2019 18:35:26 +0000</pubDate>
-      <guid>http://localhost:1313/posts/slake/</guid>
+      <guid>http://localhost:1313/blog/posts/slake/</guid>
       <description>It&amp;rsquo;s that time of the year again and I&amp;rsquo;m starting to form what may become a personal tradition - creating a small game at the end of the year. Almost everyone has played snake in one form or another and it has a simple ruleset, making it a quick and fun project to put together.
 I pay homage to the [great] game inside a piece of 90&amp;rsquo;s music software called FastTracker II.</description>
     </item>
     <item>
       <title>Celltris - Tetris in Excel from Scratch</title>
-      <link>http://localhost:1313/posts/celltris/</link>
+      <link>http://localhost:1313/blog/posts/celltris/</link>
       <pubDate>Mon, 31 Dec 2018 16:51:57 +0000</pubDate>
-      <guid>http://localhost:1313/posts/celltris/</guid>
+      <guid>http://localhost:1313/blog/posts/celltris/</guid>
       <description>I wanted to create a Tetris-like game in Excel without referencing code on the internet. Thus what follows is a brief look at the process I followed to create Celltris (cough I know).
 Total coding time: Roughly 3-4 days over the Christmas period.
 If you would like to take a look at the code (and play the game!), grab it from the Gitlab page here.

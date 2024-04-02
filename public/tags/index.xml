@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Dieter Görtz</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/blog/tags/</link>
     <description>Recent content in Tags on Dieter Görtz</description>
     <image>
       <title>Dieter Görtz</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 27 Dec 2019 18:35:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Excel</title>
-      <link>http://localhost:1313/tags/excel/</link>
+      <link>http://localhost:1313/blog/tags/excel/</link>
       <pubDate>Fri, 27 Dec 2019 18:35:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/excel/</guid>
+      <guid>http://localhost:1313/blog/tags/excel/</guid>
       <description></description>
     </item>
     <item>
       <title>Games</title>
-      <link>http://localhost:1313/tags/games/</link>
+      <link>http://localhost:1313/blog/tags/games/</link>
       <pubDate>Fri, 27 Dec 2019 18:35:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/games/</guid>
+      <guid>http://localhost:1313/blog/tags/games/</guid>
       <description></description>
     </item>
     <item>
       <title>Vba</title>
-      <link>http://localhost:1313/tags/vba/</link>
+      <link>http://localhost:1313/blog/tags/vba/</link>
       <pubDate>Fri, 27 Dec 2019 18:35:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/vba/</guid>
+      <guid>http://localhost:1313/blog/tags/vba/</guid>
       <description></description>
     </item>
     <item>
       <title>Tetris</title>
-      <link>http://localhost:1313/tags/tetris/</link>
+      <link>http://localhost:1313/blog/tags/tetris/</link>
       <pubDate>Mon, 31 Dec 2018 16:51:57 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tetris/</guid>
+      <guid>http://localhost:1313/blog/tags/tetris/</guid>
       <description></description>
     </item>
   </channel>
