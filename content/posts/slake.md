@@ -12,7 +12,7 @@ tags:
 
 It's that time of the year again and I'm starting to form what may become a personal tradition - creating a small game at the end of the year. Almost everyone has played snake in one form or another and it has a simple ruleset, making it a quick and fun project to put together.
 
-![Slake](/gifs/Slake.gif#center)
+![Slake](/gifs/slake.gif#center)
 
 I pay homage to the [great] game inside a piece of 90's music software called [FastTracker II](https://en.wikipedia.org/wiki/FastTracker_2). I spent many hours listening to 90's trance and drum and bass while completing the inbuilt version of snake, called Nibbles.
 
