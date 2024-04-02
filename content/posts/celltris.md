@@ -14,7 +14,7 @@ I wanted to create a Tetris-like game in Excel without referencing code on the i
 
 Total coding time: Roughly 3-4 days over the Christmas period.
 
-![Celltris](/gifs/celltris.gif#center)
+![Celltris](gifs/celltris.gif#center)
 If you would like to take a look at the code (and play the game!), grab it from [the Gitlab page here](https://gitlab.com/dieter.g/celltris).
 
 Disclosure: I ended up having to look up two things:  
