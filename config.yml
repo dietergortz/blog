@@ -21,13 +21,13 @@ params:
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "2 January, 2006"
-    defaultTheme: dark # dark, light
+    defaultTheme: light # dark, light
     disableThemeToggle: false
     assets:
         disableHLJS: true
         
     ShowReadingTime: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowPostNavLinks: false
     ShowBreadCrumbs: true
     disableSpecial1stPost: false
@@ -75,6 +75,8 @@ params:
     socialIcons:
         - name: "LinkedIn"
           url: "https://linkedin.com/in/dietergortz"
+        - name: "GitHub"
+          url: "https://github.com/dietergortz"
         - name: "GitLab"
           url: "https://gitlab.com/dieter.g"
 
