@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Dieter Görtz</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Dieter Görtz</description>
+    <title>Posts on Dieter Görtz</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Dieter Görtz</description>
     <image>
       <title>Dieter Görtz</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 27 Dec 2019 18:35:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slake - Creating snake in Excel</title>
       <link>http://localhost:1313/posts/slake/</link>
@@ -30,13 +30,6 @@ I pay homage to the [great] game inside a piece of 90&amp;rsquo;s music software
 Total coding time: Roughly 3-4 days over the Christmas period.
 If you would like to take a look at the code (and play the game!), grab it from the Gitlab page here.
 Disclosure: I ended up having to look up two things:</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 31 Dec 2018 13:39:39 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>For the last few years I&amp;rsquo;ve been working a lot with Excel, automating tasks and creating reporting tools. Every now and then I&amp;rsquo;ll tinker around with creating something else.</description>
     </item>
     <item>
       <title>Test Post</title>
