@@ -1,4 +1,4 @@
-baseURL: "https://dietergortz.github.io/"
+baseURL: "https://dietergortz.github.io/blog"
 title: Dieter Görtz
 paginate: 5
 theme: PaperMod
